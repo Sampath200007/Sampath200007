@@ -1,12 +1,12 @@
-# Hi there 👋 I'm Tharindu Sampath
+# I'm Tharindu Sampath
 
-🎓 **Undergraduate Student**
+ **Undergraduate Student**
 Department of Computer Science
 University of Jaffna, Sri Lanka
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am a passionate **Computer Science undergraduate** currently exploring the field of **DevOps and Cloud Technologies**.
 I enjoy building practical solutions, learning modern development tools, and improving software delivery processes through automation and continuous integration.
@@ -15,26 +15,27 @@ I am currently **seeking an internship opportunity** where I can apply my techni
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
-* 🌱 Learning **DevOps Practices**
-* ⚙️ Exploring **CI/CD Pipelines**
-* 🐳 Working with **Docker & Containerization**
-* ☁️ Learning **Cloud Technologies**
-* 🔧 Improving **Linux & Automation Skills**
+*  Learning **DevOps Practices**
+*  Exploring **CI/CD Pipelines**
+*  Working with **Docker & Containerization**
+*  Learning **Cloud Technologies**
+*  Improving **Linux & Automation Skills**
 
 ---
 
-## 💻 Technical Interests
+## Technical Interests
 
 * DevOps Engineering
 * Cloud Computing
 * Backend Development
 * Automation & Infrastructure
+* Software Development
 
 ---
 
-## 🤝 Looking to Collaborate On
+## Looking to Collaborate On
 
 * Open Source Projects
 * DevOps Tools & Automation
@@ -42,10 +43,10 @@ I am currently **seeking an internship opportunity** where I can apply my techni
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 
 📧 Email: **[tharindusampathkaldera@gmail.com](mailto:tharindusampathkaldera@gmail.com)**
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me!*
+ *Feel free to explore my repositories and connect with me!*
